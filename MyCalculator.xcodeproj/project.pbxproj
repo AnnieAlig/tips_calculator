@@ -13,6 +13,7 @@
 		6357EABB208DF82600A5B94A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6357EABA208DF82600A5B94A /* Assets.xcassets */; };
 		6357EABE208DF82600A5B94A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6357EABC208DF82600A5B94A /* LaunchScreen.storyboard */; };
 		6357EAC9208DF82600A5B94A /* MyCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6357EAC8208DF82600A5B94A /* MyCalculatorTests.swift */; };
+		6357EAD4208DF89B00A5B94A /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6357EAD3208DF89B00A5B94A /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		6357EAC4208DF82600A5B94A /* MyCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6357EAC8208DF82600A5B94A /* MyCalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCalculatorTests.swift; sourceTree = "<group>"; };
 		6357EACA208DF82600A5B94A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6357EAD3208DF89B00A5B94A /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				6357EAB3208DF82600A5B94A /* AppDelegate.swift */,
 				6357EAB5208DF82600A5B94A /* ViewController.swift */,
+				6357EAD3208DF89B00A5B94A /* Calculator.swift */,
 				6357EAB7208DF82600A5B94A /* Main.storyboard */,
 				6357EABA208DF82600A5B94A /* Assets.xcassets */,
 				6357EABC208DF82600A5B94A /* LaunchScreen.storyboard */,
@@ -201,6 +204,7 @@
 			files = (
 				6357EAB6208DF82600A5B94A /* ViewController.swift in Sources */,
 				6357EAB4208DF82600A5B94A /* AppDelegate.swift in Sources */,
+				6357EAD4208DF89B00A5B94A /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
